@@ -1,0 +1,721 @@
+@media(min-width: 275px) and (max-width: 767px){
+	#bs-example-navbar-collapse-1 {
+	    background: #fc2a6e;
+	}
+
+	.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+	    color: #edd8df;
+	}
+	.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+	    color: #edd8df;
+	    background-color: transparent;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	    color: #fff;
+	}
+	.nav.navbar-nav.navbar-right {
+    text-align: center;
+	}
+	.dropdown-menu {
+    margin-left: 30px;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #fc2a6e;
+}
+
+
+}
+/*For xs device*/
+
+@media(min-width: 275px) and (max-width: 320px){
+ 
+ .banner-text {
+    padding-bottom: 100px;
+    padding-top: 75px;
+}
+
+.banner-text h3 {
+    font-size: 50px;
+    margin-bottom: 42px;
+}
+
+.banner-text h4 {
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+.banner-text p {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 0px;
+    font-size: 15px;
+}
+
+.weddinng-details-text {
+    width: 100%;
+}
+
+.weddinng-details-text h3 {
+
+    margin-top: 0px;
+    margin-bottom: 24px;
+    font-size: 39px;
+
+}
+.weddinng-details-text p {
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.weddinng-details-text h4 {
+    font-size: 34px;
+  	margin-bottom: 15px;
+}
+.wedding-countdown .simply-countdown > .simply-section {
+    width: 55px;
+    height: 55px;
+    margin: 3px;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+
+.simply-amount {
+    font-size: 40px;
+    padding-top: 13px;
+}
+
+.wedding-countdown {
+    width: 320px;
+    margin: 0 auto;
+    padding-left: 1px;
+}
+.wedding-countdown .simply-countdown > .simply-section:hover {
+    border: 2px solid #fc2a6e;
+    color: #fc2a6e;
+    cursor: pointer;
+}
+.text-right {
+    text-align: center;
+}
+.rspv-details-text-button {
+    margin-top: -80px;
+    padding-bottom: 10px;
+}
+
+.bride-imgae {
+    padding-top: 20px;
+    text-align: center;
+}
+.about-us-text h3 {
+    font-size: 45px;
+}
+
+.groom-details-text h3 {
+    font-size: 45px;
+    text-align: center;
+}
+.groom-details-text p {
+    text-align: center;
+}
+.groom-details-button {
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.bride-details-text h3 {
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.bride-details-button {
+    text-align: center;
+    padding-top: 20px;
+}
+.family-details-content {
+    padding: 30px;
+}
+.bride-details-text p {
+    text-align: center;
+}
+
+.family-image {
+    padding-bottom: 15px;
+}
+
+.family-image-content1 {
+    padding-bottom: 0px;
+}
+
+.reception-text {
+    padding: 20px 0;
+}
+.reception-details-button {
+    padding-top: 0px;
+}
+
+.reception-content {
+    padding-bottom: 25px;
+}
+.ceremony-text {
+    padding: 30px 0;
+    text-align: center;
+}
+.ceremony-details-button {
+    padding-top: 0px;
+}
+
+.party-text.text-right {
+    padding-top: 0px;
+}
+.party-content {
+    padding-top: 40px;
+}
+.party-text.text-right {
+    padding-bottom: 30px;
+}
+
+.party-details-button {
+    padding-top: 0px;
+}
+
+.food-image-text1, .food-image-text2 ,.food-image-text3{
+    padding-bottom: 15px;
+}
+.party-content {
+    padding-bottom: 35px;
+}
+.reservation-text h3 {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    font-size: 50px;
+}
+.reservation-text {
+    padding-bottom: 50px;
+}
+
+}/*End of 320px*/
+
+
+
+@media(min-width: 321px) and (max-width: 480px){
+
+}
+
+
+@media(min-width: 321px) and (max-width: 480px){
+   
+
+ .banner-text {
+    padding-bottom: 100px;
+    padding-top: 75px;
+}
+
+.banner-text h3 {
+    font-size: 50px;
+    margin-bottom: 42px;
+}
+
+.banner-text h4 {
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+
+.banner-text p {
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 0px;
+    font-size: 15px;
+}
+
+
+.weddinng-details-text h3 {
+
+    margin-top: 0px;
+    margin-bottom: 24px;
+    font-size: 48px;
+    text-align: left ;
+
+}
+.weddinng-details-text p {
+    margin-bottom: 45px;
+    width: 50%;
+    text-align: center;
+}
+
+.weddinng-details-text h4 {
+    font-size: 42px;
+    text-align: left;
+    margin-bottom: 15px;
+}
+.wedding-countdown .simply-countdown > .simply-section {
+    width: 63px;
+    height: 63px;
+    margin: 5px;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 50%;
+    border: 2px solid #000;
+}
+
+.simply-amount {
+    font-size: 47px;
+    padding-top: 13px;
+}
+
+.wedding-countdown {
+    width: 506px;
+    margin: 0 auto;
+    padding-left: 1px;
+}
+.wedding-countdown .simply-countdown > .simply-section:hover {
+    border: 2px solid #fc2a6e;
+    color: #fc2a6e;
+    cursor: pointer;
+}
+.text-right {
+    text-align: center;
+}
+.rspv-details-text-button {
+    margin-top: -80px;
+    padding-bottom: 10px;
+}
+
+.bride-imgae {
+    padding-top: 20px;
+    text-align: center;
+}
+.about-us-text h3 {
+    font-size: 45px;
+}
+
+.groom-details-text h3 {
+    font-size: 45px;
+    text-align: center;
+}
+.groom-details-text p {
+    text-align: center;
+}
+.groom-details-button {
+    padding-top: 5px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+
+.bride-details-text h3 {
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.bride-details-button {
+    text-align: center;
+    padding-top: 20px;
+}
+.family-details-content {
+    padding: 30px;
+}
+.bride-details-text p {
+    text-align: center;
+}
+
+.family-image {
+    padding-bottom: 15px;
+}
+
+.family-image-content1 {
+    padding-bottom: 0px;
+}
+
+.reception-text {
+    padding: 20px 0;
+}
+.reception-details-button {
+    padding-top: 0px;
+}
+
+.reception-content {
+    padding-bottom: 25px;
+}
+.ceremony-text {
+    padding: 30px 0;
+    text-align: center;
+}
+.ceremony-details-button {
+    padding-top: 0px;
+}
+
+.party-text.text-right {
+    padding-top: 0px;
+}
+.party-content {
+    padding-top: 40px;
+}
+.party-text.text-right {
+    padding-bottom: 30px;
+}
+
+.party-details-button {
+    padding-top: 0px;
+}
+
+.food-image-text1, .food-image-text2 ,.food-image-text3{
+    padding-bottom: 15px;
+}
+.party-content {
+    padding-bottom: 35px;
+}
+.reservation-text h3 {
+    padding-top: 35px;
+    padding-bottom: 25px;
+    font-size: 50px;
+}
+.reservation-text {
+    padding-bottom: 50px;
+}
+
+}/*End of 480px*/
+
+@media(min-width: 481px) and (max-width: 640px){
+.banner-text h3 {
+    font-size: 60px;
+    padding-left: 10px;
+}
+.banner-text{
+    text-align: center;
+} 
+
+.banner-text p {
+    width: 460px;
+    font-size: 15px;
+}
+
+.banner-text {
+    padding-bottom: 160px;
+    padding-top: 160px;
+}
+.banner-text p {
+    width: 100%;
+    font-size: 15px;
+}
+.weddinng-details-content {
+    padding: 60px 0px;
+}
+.weddinng-details-text{
+    width: 85%;
+}
+.weddinng-details-text h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.wedding-countdown .simply-countdown > .simply-section {
+    width: 100px;
+    height: 100px;
+    margin: 6px;
+    border-radius: 50%;
+    border: 5px solid #000;
+}
+
+.simply-amount {
+    font-size: 60px;
+}
+
+.wedding-countdown .simply-countdown > .simply-section:hover {
+    border: 6px solid #fc2a6e;
+    color: #fc2a6e;
+    cursor: pointer;
+}
+.weddinng-details-text h4 {
+    margin-bottom: 20px;
+}
+
+.rspv-details-text-button {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+.col-md-9.rspv-details-text {
+    padding: 50px 0px;
+}
+
+.about-us-text h3 {
+    font-size: 50px;
+
+}
+
+.text-right {
+    text-align: center;
+}
+
+.bride-imgae {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.groom-details-text h3 {
+    padding-bottom: 30px;
+    font-size: 50px;
+}
+
+.groom-details-content {
+    padding-bottom: 55px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.groom-details-button {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.bride-details-text {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.family-details-content {
+    padding-bottom: 0px;
+}
+
+.family-details-content {
+    padding-bottom: 0px;
+    padding-top: 50px;
+}
+
+.family-image {
+    padding-bottom: 15px;
+    text-align: center;
+}
+.family-image-content1 {
+    padding-bottom: 15px;
+}
+
+.family-image-content1 {
+    padding-bottom: 0px;
+}
+
+.reception-text.text-right {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.reception-content {
+    padding-bottom: 40px;
+}
+.ceremony-text {
+    padding: 40px 0;
+    text-align: center;
+}
+.party-content {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.party-text {
+    padding: 15px 0;
+}
+.party-details-button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.food-image-text1, .food-image-text2 ,.food-image-text3{
+    padding-bottom: 15px;
+}
+.reservation-text {
+    padding-bottom: 60px;
+}
+}/*End of 640px*/
+
+@media(min-width: 641px) and (max-width: 767px){
+
+h3{
+     font-size: 50px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    font-size: 15px;
+}
+.banner-text {
+    text-align: center;
+}
+.banner-text p {
+    width: 100%;
+}
+.rspv-details-text-button {
+    margin-top: -55px;
+    text-align: center;
+    padding-bottom: 30px;
+}.wedding-countdown .simply-countdown > .simply-section {
+    width: 124px;
+    height: 124px;
+    margin: 14px;
+    border: 8px solid #000;
+}
+.simply-amount {
+    font-size: 70px;
+    padding-top: 15px;
+}
+
+.wedding-countdown .simply-countdown > .simply-section {
+    width: 124px;
+    height: 124px;
+    margin: 14px;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 50%;
+    border: 8px solid #000;
+}
+ .groom-imgae.text-right {
+    text-align: center;
+}
+.bride-imgae {
+    text-align: center;
+    padding-top: 20px;
+}
+.groom-details-text {
+    text-align: center;
+}
+
+.groom-details-image.text-right {
+    text-align: center;
+    padding-top: 30px;
+}
+.bride-details-image {
+    text-align: center;
+}
+.bride-details-text {
+    text-align: center;
+}
+.family-details-content {
+    padding-bottom: 148px;
+    padding-top: 60px;
+}
+
+.family-image{
+text-align: center;
+padding-bottom: 20px;
+}
+.family-image-content1 {
+    padding-bottom: 0px;
+}
+
+.wedding-countdown .simply-countdown > .simply-section:hover {
+    border: 8px solid #fc2a6e;
+    color: #fc2a6e;
+    cursor: pointer;
+}
+
+}/*End of 767px*/
+
+/*For sm device*/
+
+@media(min-width: 768px) and (max-width: 991px){
+
+.rspv-details-text-button {
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.col-md-9.rspv-details-text {
+    padding: 40px 0px;
+}
+.groom-imgae.text-right {
+    text-align: center;
+}
+
+.bride-imgae {
+    text-align: center;
+    padding-top: 20px;
+}
+.bride-details-text {
+    padding-top: 30px;
+}
+.family-details-content {
+    padding-top: 50px;
+}
+.family-image {
+
+    text-align: center;
+    padding-top: 15px;
+
+}
+.family-image-content1 {
+    padding-bottom: 0px;
+}
+
+.family-details-content {
+    padding-bottom: 30px;
+}
+.reception-text {
+    padding: 50px 0;
+}
+
+.reception-text {
+    text-align: center;
+}
+
+.ceremony-text {
+    padding: 60px 0;
+}
+
+.party-content {
+    padding-bottom: 100px;
+    padding-top: 0px;
+}
+
+.party-text {
+    padding-top: 0px;
+    padding-bottom: 30px;
+}
+.food-image-text1,.food-image-text1,.food-image-text1,.food-image-text1 {
+    padding-bottom: 30px;
+}
+
+}/*End of 991px*/
+
+/*For md device*/
+
+@media(min-width: 992px) and (max-width: 1024px){
+
+.reception-content {
+    padding-bottom: 0px;
+}
+.ceremony-text h3 {
+
+    font-size: 48px;
+}
+.party-text {
+    text-align: left;
+}
+.ceremony-text {
+    text-align: right;
+}
+
+.reception-text {
+    text-align: left;
+}
+.reception-text h3{
+    font-size: 48px;
+}
+
+.party-content {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+}/*End of 1024px*/
+
+@media(min-width: 1025px) and (max-width: 1199px){
+ 
+}/*End of 1199px*/

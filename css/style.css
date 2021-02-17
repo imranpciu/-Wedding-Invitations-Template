@@ -1,0 +1,562 @@
+body{
+	/*font-family: 'Satisfy', cursive;*/
+	/*	font-family: 'Lato', sans-serif;*/
+	background: url(../image/about-us.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+    background-attachment: fixed;
+        
+} 
+
+h3{
+	font-family: 'Satisfy', cursive;
+	font-size: 60px;
+	margin: 0;
+}
+
+h5{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	margin: 0;
+}
+
+p{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
+
+.banner-img{
+	background-image: url(../image/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+
+}
+.banner-overlay{
+	background: rgba(0 , 0 , 0 ,.70);
+}
+.navbar-default {
+     background-color: transparent; 
+     border-color:transparent; 
+     padding-top: 13px;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:focus, 
+.navbar-default .navbar-nav>.open>a:hover {
+     color: #fc2a6e; 
+     background-color: transparent; 
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+     color: #fc2a6e; 
+}
+.dropdown-menu {
+    background-color: #fc2a6e;
+}
+
+.dropdown-menu>li>a {
+    color: #fff;
+}
+.dropdown-menu>li>a:hover {
+    background-color:#fc2a6e;
+	color: #e2c4c4;
+}
+
+.is-sticky .navbar {
+    background: #3c3939;
+    margin-top: -10px;
+    padding-bottom: 20px;
+}
+
+.is-sticky {
+    position: relative;
+    width: 100%;
+    z-index: 999;
+
+}
+
+.banner-text{
+	color: #ffffff;
+}
+.banner-text{
+	padding-bottom: 218px;
+	padding-top: 203px;
+}
+.banner-text p {
+    width: 697px;
+    font-family: 'Lato', sans-serif;
+}
+
+.banner-text h3 {
+    font-size: 80px;
+    font-family: 'Satisfy', cursive;
+    margin-top: 0px;
+    margin-bottom: 42px;
+}
+.banner-text h4{
+	font-size: 24px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 0px;
+    margin-bottom: 45px;
+}
+.banner-text p {
+    width: 697px;
+    font-family: 'Lato', sans-serif;
+    margin: 0 0 0px;
+    font-size: 20px;
+
+}
+#Wedding-details{
+	/*background: url(../image/wd-bg.png);*/
+}
+.weddinng-details-text{
+	width: 555px;
+	margin: 0 auto;
+}
+.weddinng-details-text h3{
+	
+    margin-top: 0px;
+    margin-bottom: 24px;
+    font-family: 'Satisfy', cursive;
+    font-size: 60px;
+    text-align: center;
+
+}
+.weddinng-details-content{
+	padding: 100px 0px;
+}
+.weddinng-details-text p {
+    font-size: 16px;
+    margin-bottom: 60px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+.weddinng-details-text h4 {
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-size: 48px;
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    margin-bottom: 0;
+}
+.simply-amount{
+    font-family: 'Satisfy', cursive;
+    font-size: 80px;
+    padding-top: 15px;
+}
+.simply-countdown > .simply-section .simply-word{
+	display: none;
+}
+.wedding-countdown {
+    width: 720px;
+    margin: 0 auto;
+}
+.wedding-countdown .simply-countdown > .simply-section {
+    width: 143px;
+    height: 143px;    
+    margin: 15px;
+    background: #fff;
+    box-shadow: none;
+    border-radius: 50%;
+    border: 10px solid #000;
+}
+.wedding-countdown .simply-countdown > .simply-section:hover{
+    border: 10px solid #fc2a6e;
+	color: #fc2a6e;
+	cursor: pointer;
+}
+.weddinng-details-button .btn {
+    
+    padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+  	margin-top: 50PX;
+}
+.weddinng-details-button a{
+	text-decoration: none;
+	 color: #ffffff;
+}
+
+
+#rspv-image{
+	background: url(../image/rspv.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.col-md-9.rspv-details-text {
+    padding: 98px 0px;
+}
+.col-md-3.rspv-details-text-button.text-right {
+    padding: 98px 0;
+}
+.rspv-content p{
+	margin-bottom: 0px;
+}
+.rspv-overlay{
+	background: rgba(0 , 0 , 0 ,.70);
+}
+.rspv-details-text p{
+	font-size: 20px;
+	font-family: 'Lato', sans-serif;
+	color: #ffffff;
+}
+.rspv-details-text-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+  	
+}
+
+.rspv-details-text-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.rspv-details-text-button {
+    margin-top: 71px;
+}
+#about-us{
+	/*background: url(../image/about-us.jpg);*/
+}
+.about-us-text h3{
+	font-family: 'Satisfy', cursive;
+	font-size: 65px;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.about-us-text p{
+	font-family: 'Lato', sans-serif;
+	font-size: 16px;
+	padding-bottom: 60px;
+}
+
+/*.about-us-content{
+	padding-bottom: 80px;
+}*/
+
+#groom-details{
+	/*background: url(../image/about-us.jpg);*/
+}
+.groom-details-text h3 {
+	padding-bottom: 35px;
+}
+
+
+.groom-details-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+    
+}
+
+.groom-details-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.groom-details-button{
+	padding-top: 35px;
+}
+.groom-details-content{
+	padding-bottom: 55px;
+	padding-top: 80px
+}
+
+#bride-details{
+	/*background: url(../image/about-us.jpg);*/
+}
+.bride-details-text h3 {
+	padding-bottom: 35px;
+}
+
+.bride-details-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+}
+.bride-details-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.bride-details-button{
+	padding-top: 35px;
+}
+/*.bride-details-contetnt{
+	padding-bottom: 100px;
+}*/
+
+.family-details-content{
+	padding-top: 100px;
+}
+
+#family-details{
+	/*background: url(../image/about-us.jpg);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+    background-attachment: fixed;
+}
+.family-details-text h3 {
+	padding-bottom: 30px;
+}
+
+.family-details-text{
+	padding-bottom: 50px;
+}
+.family-image-content1{
+	padding-bottom: 30px;
+}
+.family-details-content{
+	padding-bottom: 100px;
+}
+#reception-details{
+/*	background: url(../image/about-us.jpg);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+    background-attachment: fixed;
+}
+.reception-text{
+	padding: 140px 0;
+}
+.reception-text h3{
+	padding-bottom: 15px;
+}
+.reception-text h5{
+	padding-bottom: 10px;
+}
+
+.reception-details-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+    
+}
+.reception-details-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.reception-details-button{
+	padding-top: 20px;
+}
+.reception-content{
+	padding-bottom: 100px;
+}
+
+#ceremony-details{
+/*	background: url(../image/about-us.jpg);*/
+}
+
+.ceremony-text h3{
+	padding-bottom: 15px;
+}
+.ceremony-text h5{
+	padding-bottom: 10px;
+}
+
+.ceremony-details-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+    
+}
+.ceremony-details-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.ceremony-details-button{
+	padding-top: 20px;
+}
+.ceremony-text{
+	padding: 140px 0;
+}
+/*.ceremony-content{
+	padding-bottom: 100px;
+}*/
+
+#party-details{
+	/*background: url(../image/about-us.jpg);*/
+}
+.party-text{
+	padding: 140px 0;
+}
+.party-text h3{
+	padding-bottom: 15px;
+}
+.party-text h5{
+	padding-bottom: 10px;
+}
+
+.party-details-button .btn{
+	padding: 12px 14px;
+    font-size: 18px;
+    border-radius: 7px;
+    font-family: 'Lato', sans-serif;
+    background-color: #fc2a6e;
+    
+}
+.party-details-button a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.party-details-button{
+	padding-top: 20px;
+}
+.party-content{
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+.food-image{
+	background: url(../image/food.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.food-image-overlay{
+
+	background: rgba(0 , 0 , 0 ,.70);
+}
+
+.food-content-area{
+	padding: 100px 0px;
+}
+.food-image-text1 {
+	margin-top: -40px;
+}
+.food-image-text3 {
+	margin-top: 35px;
+}
+
+
+#reservation{
+	/*background: url(../image/wd-bg.png);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+    background-attachment: fixed;
+}
+
+.reservation-text h3{
+	padding-top: 80px;
+	padding-bottom: 30px;
+}
+
+.reservation-text p{
+	padding-bottom: 60px;
+}
+
+.form-control {
+    border: 2px solid #fc2a6e;
+    border-radius: 7px;
+ 
+}
+
+.form-control {
+    height: 45px;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #fc2a6e;
+    border-color: #fc2a6e;
+}
+.btn-default:hover {
+    color: #f5f0f0;
+    background-color: #fc2a6e;
+    border-color: transparent;
+}
+
+.btn {
+    padding: 9px 17px;
+    font-size: 20px;
+    border-radius: 7px;
+    margin-top: 30px;
+
+}
+.reservation-text {
+	padding-bottom: 100px;
+}
+
+#footer{
+	background: url(../image/footer.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+.footer-overlay{
+	background: rgba(0 , 0 , 0 ,.70);
+}
+
+.footer-text{
+	color: #fff;
+}
+.footer-text h3 {
+
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.footer-text p{
+	padding-bottom: 50px;
+}
+.footer-social-icon ul li a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 30px;
+	padding-right: 5px;
+}
+
+.footer-social-icon{
+	padding-bottom: 30px;
+}
+
+#toTop {
+    display: none;
+    text-decoration: none;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    overflow: hidden;
+    width: 51px;
+    height: 51px;
+    border: none;
+    text-indent: 100%;
+    background: url(../image/ui.totop.png) no-repeat left top;
+}
+
+#toTopHover {
+    background: url(../image/ui.totop.png) no-repeat left -51px;
+    width: 51px;
+    height: 51px;
+    display: block;
+    overflow: hidden;
+    float: left;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter: alpha(opacity=0);
+}
